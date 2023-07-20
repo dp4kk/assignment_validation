@@ -202,7 +202,4 @@ const InputError = ({ message }) => {
 
 /*
 
- {...methods.register("date", {
-                    required: { value: true, message: "required" },
-                  })}
-*/
+ 
