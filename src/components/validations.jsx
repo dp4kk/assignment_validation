@@ -12,10 +12,6 @@ export const name_validation = {
       value: 30,
       message: "30 characters max",
     },
-    minLength: {
-      value: 3,
-      message: "3 characters min",
-    },
     pattern: {
       value: /^[a-zA-Z]+$/,
       message:"Name can't have number"
